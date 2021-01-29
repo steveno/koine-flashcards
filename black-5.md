@@ -3,19 +3,19 @@ truth
 
 ---
 # ἁμαρτία, ἡ
-sin (hamarti ology [the study of sin])
+sin (hamartiology [the study of sin])
 
 ---
 # βασιλεία, ἡ
-kingdom, reign (basili ca)
+kingdom, reign (basilica)
 
 ---
 # διακονία, ἡ
-ministry, service (diacon ate)
+ministry, service (diaconate)
 
 ---
 # ἐκκλησία, ἡ
-church, assembly (ecclesi astical [related to the church])
+church, assembly (ecclesiastical [related to the church])
 
 ---
 # ἐξουσία, ἡ
@@ -27,15 +27,15 @@ desire, lust
 
 ---
 # ἡμέρα, ἡ
-day (ephemer al)
+day (ephemeral)
 
 ---
 # καρδία, ἡ
-heart (cardi ac)
+heart (cardiac)
 
 ---
 # μαρτυρία, ἡ
-testimony (marty r)
+testimony (martyr)
 
 ---
 # οἰκία, ἡ
@@ -54,15 +54,15 @@ salvation (soteriology)
 
 ---
 # χαρά, ἡ
-joy (Chari ssa)
+joy (Charissa)
 
 ---
 # ὥρα, ἡ 
-hour (hor oscope)
+hour (horoscope)
 
 ---
 # γλῶσσα, ἡ
-tongue, language (gloss alalia)
+tongue, language (glossalalia)
 
 ---
 # δόξα, ἡ
@@ -78,15 +78,15 @@ love (the Agape [the love feast])
 
 ---
 # ἀρχή, ἡ
-beginning (arch aic)
+beginning (archaic)
 
 ---
 # γῆ, ἡ
-earth, land (ge ology)
+earth, land (geology)
 
 ---
 # γραφή, ἡ
-Scripture, writing (graph ics)
+Scripture, writing (graphics)
 
 ---
 # διαθήκη, ἡ
@@ -102,7 +102,7 @@ righteousness
 
 ---
 # εἰρήνη, ἡ
-peace (Irene )
+peace (Irene)
 
 ---
 # ἐντολή, ἡ
@@ -110,15 +110,15 @@ commandment
 
 ---
 # ἐπιστολή, ἡ
-letter (epistle )
+letter (epistle)
 
 ---
 # ζωή, ἡ
-life (zo ology)
+life (zoology)
 
 ---
 # κεφαλή, ἡ
-head (encephal itis [inflamation of the brain])
+head (encephalitis [inflamation of the brain])
 
 ---
 # ὀργή, ἡ
@@ -126,7 +126,7 @@ anger, wrath
 
 ---
 # παραβολή, ἡ
-parable (parabo lic)
+parable (parabolic)
 
 ---
 # περιτομή, ἡ
@@ -146,23 +146,23 @@ endurance, steadfastness
 
 ---
 # φωνή, ἡ
-voice, sound (phon ology)
+voice, sound (phonology)
 
 ---
 # ψυχή, ἡ
-soul, life (psych ology)
+soul, life (psychology)
 
 ---
 # μαθητής, ὁ
-disciple (√μαθ, math ematics)
+disciple (√μαθ, mathematics)
 
 ---
 # προφήτης, ὁ
-prophet (prophet ic)
+prophet (prophetic)
 
 ---
 # στρατιώτης, ὁ
-soldier (strat egic)
+soldier (strategic)
 
 ---
 # τελώνης, ὁ
@@ -170,15 +170,15 @@ tax collector
 
 ---
 # ὑποκριτής, ὁ
-hypocrite (hypocrit ical)
+hypocrite (hypocritical)
 
 ---
 # Μεσσίας, ὁ
-Messiah (messi anic)
+Messiah (messianic)
 
 ---
 # νεανίας, ὁ
-young man (from νεός ["new"], neo -orthodox)
+young man (from νεός ["new"], neo-orthodox)
 
 ---
 # ὁ, ἡ, τό
@@ -190,12 +190,12 @@ from; away from, of (with gen.)
 
 ---
 # εἰς
-into; to, for, in (with acc.) (es oteric)
+into; to, for, in (with acc.) (esoteric)
 
 ---
 # ἐκ
-out of; from, by (with gen.) (ec centric)
+out of; from, by (with gen.) (eccentric)
 
 ---
 # ἐν
-in; within, by, with, among (with dat.) (en ergy)
+in; within, by, with, among (with dat.) (energy)
